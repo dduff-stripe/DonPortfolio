@@ -1,24 +1,21 @@
 # Don Portfolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a Ruby on Rails 5 application that allows users to create their own portfolios, and is the demo application for the Dissecting Rails 5 course.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+### Features
 
-* Configuration
+-Real time chat engine for comments
+-Blog
+-Portfolio
+-Drag and drop interface
 
-* Database creation
+### Code Example
 
-* Database initialization
+```ruby
+def my_great_method
+  puts "here it is"
+end
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
